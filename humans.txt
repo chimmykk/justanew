@@ -1,0 +1,19 @@
+/* TEAM */
+
+  Owner: Taylor Otwell, Laravel LLC
+  Site: rilsosingkoren.netlify.app
+  Designer/Developer: Rilsosing Koireng
+  Email: vtu21642@veltech.edu.in
+  Twitter: @rilsosingkoren
+  Location: Saratoga Springs, New York
+
+/* SITE */
+
+  Standards: HTML5, CSS3
+  Components: Laravel, Tailwind CSS, PHP
+  Fonts: VCR-OSD-MONO, Fixedsys500c, Capcom Serif Large
+  Artwork: Kirokaze, Waneella, Open Game Art, Jack McDade
+
+/* THANKS */
+
+
